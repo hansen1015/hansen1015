@@ -2,4 +2,4 @@
 - 👀 I’m interested in trading bot, robotics, arduino, python, C++
 - 🌱 I’m currently learning python for ML and for trading bot
 - 💞️ I’m looking to collaborate on nothing, idk what to do now
-- 📫 How to reach me, you can email me at hansen.khornelius@gmail.com or instagram hansen_khornelius
+- 📫 How to reach me, you can email me at hansen.khornelius@gmail.com or instagram @hansen_khornelius
