@@ -17,7 +17,7 @@ I’m a builder who lives at the intersection of **Aerospace Engineering** and *
 
 ### 🔋 Featured Project: GeekMagic_Calendar
 > **[Check out the repo here!](https://github.com/Hansen1015/GeekMagic_Calendar)**
-> A custom implementation for the GeekMagic / Xteink X4 hardware. Bringing Google Calendar events to a tiny, desk-friendly E-Ink display via ESP32.
+> A custom implementation for the GeekMagic hardware. Bringing Google Calendar events to a tiny, desk-friendly E-Ink display via ESP32.
 
 ---
 
