@@ -37,13 +37,11 @@ When I'm not coding, I'm applying physics and engineering principles to:
 ---
 
 ### 📬 Let's Connect!
-- **Portfolio:** [link.xingxingkho.com/home](https://link.xingxingkho.com/home)
+- **Other Socials:** [link.xingxingkho.com/home](https://link.xingxingkho.com/home)
 - **LinkedIn:** [Hansen Khornelius](https://www.linkedin.com/in/hansen-khornelius/)
 - **Email:** [hansen.khornelius@gmail.com](mailto:hansen.khornelius@gmail.com)
 
 *Open for internships, hobbyist collaborations, or just chatting about physics!*
 
 ---
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Hansen1015&show_icons=true&theme=radical" alt="Hansen's GitHub Stats" />
-</p>
+
